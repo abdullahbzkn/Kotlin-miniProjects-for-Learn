@@ -1,0 +1,51 @@
+KOTLİN MİNİ PROJECTS REPPORT
+
+• chronometerwithJava :
+-> Runnable
+
+
+•catchTheMousewithJava :
+-> CountDownTimer
+
+
+•superHeroInfoAppwithJava : 
+-> RecyclerView
+-> ViewBinding
+-> Singleton class
+-> Serializable
+
+
+•artbookwithJava : 
+-> SQLite Database
+-> Menu
+-> Permissions
+-> ActivityResultLauncher
+-> try&catch
+-> Bitmap
+-> Toast & Snackbar
+
+•travelbookwithJava : 
+-> Room Database
+-> RxJava
+-> Cloud Console & Googlemaps Apı Key
+-> Fragment
+-> LocationManager & LocationListener
+-> SharedPreferences
+-> Visibility
+
+
+•instagramClonewithJava : 
+-> 
+-> 
+-> 
+-> 
+-> 
+-> 
+
+•cryptoAppwithJava : 
+-> 
+-> 
+-> 
+-> 
+-> 
+-> 
