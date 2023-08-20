@@ -3,9 +3,14 @@ KOTLİN MİNİ PROJECTS REPPORT
 • chronometerwithJava :
 	-> Runnable
 
+Başlat ve sıfırla butonları olan basit kronometre uygulaması.
+
+
 
 •catchTheMousewithJava :
 	-> CountDownTimer
+
+Ekranda belirli süre ile beliren görseli yakalama oyunu.
 
 
 •superHeroInfoAppwithJava : 
@@ -13,6 +18,8 @@ KOTLİN MİNİ PROJECTS REPPORT
 	-> ViewBinding
 	-> Singleton class
 	-> Serializable
+
+Ekranda seçildiğinde farklı aktivite ile detaylarını gösteren basit bilgi uygulaması.
 
 
 •artbookwithJava : 
@@ -24,6 +31,9 @@ KOTLİN MİNİ PROJECTS REPPORT
 	-> Bitmap
 	-> Toast & Snackbar
 
+Kullanıcıdan (izinle)fotoğraf ve ilgili fotoğrafla alakalı 3 adet string alıp telefonun database ine kaydeden daha sonrasında
+görüntülenebilir hale gelen basit not alma uygulaması.
+
 
 •travelbookwithJava : 
 	-> Room Database
@@ -33,6 +43,10 @@ KOTLİN MİNİ PROJECTS REPPORT
 	-> LocationManager & LocationListener
 	-> SharedPreferences
 	-> Visibility
+
+Kullanıcının (izinle)konum bilgisini alıp harita üzerinde bulunduğu çevreyi gösteren ve kullanıcının gireceği string değerle 
+beraber telefonun database ine kaydetmesini daha sonra görüntülenebilir hale gelmesini sağlayan konum not uygulaması.
+Not: API keyi saklayarak uygulamayı tekrar repoya koymak için sonradan düzenleme yapacağım.
 
 
 •instagramClonewithJava : 
@@ -46,8 +60,16 @@ KOTLİN MİNİ PROJECTS REPPORT
 	-> addOnFailureListener
 	-> addOnSuccessListener
 
+Kullanıcı kayıt ve girişi ile başlayan. Tüm kullanıcıların (izinle)fotoğraf ve girdiği stringleri aynı ana ekranda tarihe göre
+güsteren basit instagram klonu. Kullanıcı bilgileri fotoğraf ve string verilerinin tümü firebase depolama alanında saklanır.
+Not: Firebase için gerekli belgeyi saklayarak uygulamayı tekrar repoya koymak için sonradan düzenleme yapacağım
+ 
+
 •cryptoAppwithJava : 
 	-> Retrofit
 	-> API JSON
 	-> Retrofit & RxJava integration
 	-> RxJava & Compostie
+
+Gerekli API dan kripto para isimlerini ve değerlerini çekip kullanıcıya gösterilmesini sağlayan basit kripto para uygulaması.
+Not: Şuan veriler github adresinden çekiliyor daha sonra düzenleme yapacağım.
