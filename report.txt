@@ -18,6 +18,7 @@ Ekranda belirli süre ile beliren görseli yakalama oyunu.
 	-> ViewBinding
 	-> Singleton class
 	-> Serializable
+	-> Intent
 
 Ekranda seçildiğinde farklı aktivite ile detaylarını gösteren basit bilgi uygulaması.
 
@@ -73,3 +74,17 @@ Not: Firebase için gerekli belgeyi saklayarak uygulamayı tekrar repoya koymak 
 
 Gerekli API dan kripto para isimlerini ve değerlerini çekip kullanıcıya gösterilmesini sağlayan basit kripto para uygulaması.
 Not: Şuan veriler github adresinden çekiliyor daha sonra düzenleme yapacağım.
+
+
+• chronometerwithKotlin :
+	-> Runnable
+
+Başlat ve sıfırla butonları olan basit kronometre uygulaması.
+
+
+
+•catchTheMousewithKotlin :
+	-> CountDownTimer
+	-> Alert
+
+Ekranda belirli süre ile beliren görseli yakalama oyunu.
