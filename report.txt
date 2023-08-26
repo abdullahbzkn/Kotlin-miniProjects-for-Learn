@@ -1,17 +1,20 @@
-KOTLİN MİNİ PROJECTS REPPORT
+-------------------------------------KOTLİN MİNİ PROJECTS REPPORT-------------------------------------
+
+----------------------------------------JAVA----------------------------------------
 
 • chronometerwithJava :
 	-> Runnable
 
 Başlat ve sıfırla butonları olan basit kronometre uygulaması.
 
-
+--------------------------------------------------------------------
 
 •catchTheMousewithJava :
 	-> CountDownTimer
 
 Ekranda belirli süre ile beliren görseli yakalama oyunu.
 
+--------------------------------------------------------------------
 
 •superHeroInfoAppwithJava : 
 	-> RecyclerView
@@ -22,6 +25,7 @@ Ekranda belirli süre ile beliren görseli yakalama oyunu.
 
 Ekranda seçildiğinde farklı aktivite ile detaylarını gösteren basit bilgi uygulaması.
 
+--------------------------------------------------------------------
 
 •artbookwithJava : 
 	-> SQLite Database
@@ -35,6 +39,7 @@ Ekranda seçildiğinde farklı aktivite ile detaylarını gösteren basit bilgi 
 Kullanıcıdan (izinle)fotoğraf ve ilgili fotoğrafla alakalı 3 adet string alıp telefonun database ine kaydeden daha sonrasında
 görüntülenebilir hale gelen basit not alma uygulaması.
 
+--------------------------------------------------------------------
 
 •travelbookwithJava : 
 	-> Room Database
@@ -49,6 +54,7 @@ Kullanıcının (izinle)konum bilgisini alıp harita üzerinde bulunduğu çevre
 beraber telefonun database ine kaydetmesini daha sonra görüntülenebilir hale gelmesini sağlayan konum not uygulaması.
 Not: API keyi saklayarak uygulamayı tekrar repoya koymak için sonradan düzenleme yapacağım.
 
+--------------------------------------------------------------------
 
 •instagramClonewithJava : 
 	-> Firebase
@@ -65,6 +71,7 @@ Kullanıcı kayıt ve girişi ile başlayan. Tüm kullanıcıların (izinle)foto
 güsteren basit instagram klonu. Kullanıcı bilgileri fotoğraf ve string verilerinin tümü firebase depolama alanında saklanır.
 Not: Firebase için gerekli belgeyi saklayarak uygulamayı tekrar repoya koymak için sonradan düzenleme yapacağım
  
+--------------------------------------------------------------------
 
 •cryptoAppwithJava : 
 	-> Retrofit
@@ -76,15 +83,33 @@ Gerekli API dan kripto para isimlerini ve değerlerini çekip kullanıcıya gös
 Not: Şuan veriler github adresinden çekiliyor daha sonra düzenleme yapacağım.
 
 
+
+----------------------------------------KOTLİN----------------------------------------
+
 • chronometerwithKotlin :
 	-> Runnable
 
 Başlat ve sıfırla butonları olan basit kronometre uygulaması.
 
-
+--------------------------------------------------------------------
 
 •catchTheMousewithKotlin :
 	-> CountDownTimer
 	-> Alert
 
 Ekranda belirli süre ile beliren görseli yakalama oyunu.
+
+--------------------------------------------------------------------
+
+•superHeroInfoAppwithKotlin : 
+	-> ListView
+	-> RecyclerView
+	-> ViewBinding
+	-> Singleton class
+	-> Serializable
+	-> Intent
+
+Ekranda seçildiğinde farklı aktivite ile detaylarını gösteren basit bilgi uygulaması.
+
+--------------------------------------------------------------------
+
