@@ -113,3 +113,17 @@ Ekranda seçildiğinde farklı aktivite ile detaylarını gösteren basit bilgi 
 
 --------------------------------------------------------------------
 
+•artbookwithKotlin : 
+	-> SQLite Database
+	-> Menu
+	-> Permissions
+	-> ActivityResultLauncher
+	-> try&catch
+	-> Bitmap
+	-> Toast & Snackbar
+
+Kullanıcıdan (izinle)fotoğraf ve ilgili fotoğrafla alakalı 3 adet string alıp telefonun database ine kaydeden daha sonrasında
+görüntülenebilir hale gelen basit not alma uygulaması.
+
+--------------------------------------------------------------------
+
