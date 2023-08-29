@@ -89,8 +89,10 @@ Not: Şuan veriler github adresinden çekiliyor daha sonra düzenleme yapacağı
 	-> Collision Detection
 	-> shapeRenderer
 Standart düşmanlardan kaçan kuş oyunu
-Not: Çarpışmalar iyileştirilebilir, arkaplan düşman ve oyuncu görünümleri çoğaltılabilir ve high score takibi/menü eklenebilir. Basic seviyede şuan
-
+Not: Çarpışmalar iyileştirilebilir, arkaplan düşman ve oyuncu
+görünümleri çoğaltılabilir ve high score takibi/menü eklenebilir. Basic seviyede şuan
+ 
+--------------------------------------------------------------------
 
 
 ----------------------------------------KOTLİN----------------------------------------
