@@ -88,11 +88,20 @@ Not: Şuan veriler github adresinden çekiliyor daha sonra düzenleme yapacağı
 	-> LibGDX
 	-> Collision Detection
 	-> shapeRenderer
+
 Standart düşmanlardan kaçan kuş oyunu
 Not: Çarpışmalar iyileştirilebilir, arkaplan düşman ve oyuncu
 görünümleri çoğaltılabilir ve high score takibi/menü eklenebilir. Basic seviyede şuan
  
 --------------------------------------------------------------------
+
+•fruitNinjaGame : 
+	-> LibGDX
+	-> Input Prosessor
+	
+Fruit Ninja oyunu klonu
+Not: Optimizasyonlara iyileştirmelere açık
+
 
 
 ----------------------------------------KOTLİN----------------------------------------
