@@ -147,3 +147,21 @@ görüntülenebilir hale gelen basit not alma uygulaması.
 
 --------------------------------------------------------------------
 
+•travelbookwithKotlin : 
+	-> Room Database
+	-> RxJava
+	-> Cloud Console & Googlemaps Apı Key
+	-> Fragment
+	-> LocationManager & LocationListener
+	-> SharedPreferences
+	-> Visibility
+
+Kullanıcının (izinle)konum bilgisini alıp harita üzerinde bulunduğu çevreyi gösteren ve kullanıcının gireceği string değerle 
+beraber telefonun database ine kaydetmesini daha sonra görüntülenebilir hale gelmesini sağlayan konum not uygulaması.
+Not: API keyi saklayarak uygulamayı tekrar repoya koymak için sonradan düzenleme yapacağım.
+
+--------------------------------------------------------------------
+
+
+
+
