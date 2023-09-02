@@ -57,7 +57,7 @@ Not: API keyi saklayarak uygulamayı tekrar repoya koymak için sonradan düzenl
 --------------------------------------------------------------------
 
 •instagramClonewithJava : 
-	-> Firebase
+	-> Firebase (NoSQL)
 		-> analytics 
 		-> authentication
 		-> firestore
@@ -162,6 +162,20 @@ Not: API keyi saklayarak uygulamayı tekrar repoya koymak için sonradan düzenl
 
 --------------------------------------------------------------------
 
+•instagramClonewithKotlin : 
+	-> Firebase (NoSQL)
+		-> analytics 
+		-> authentication
+		-> firestore
+		-> storage
+	-> addOnCanceledListener
+	-> addOnCompleteListener
+	-> addOnFailureListener
+	-> addOnSuccessListener
 
-
+Kullanıcı kayıt ve girişi ile başlayan. Tüm kullanıcıların (izinle)fotoğraf ve girdiği stringleri aynı ana ekranda tarihe göre
+güsteren basit instagram klonu. Kullanıcı bilgileri fotoğraf ve string verilerinin tümü firebase depolama alanında saklanır.
+Not: Firebase için gerekli belgeyi saklayarak uygulamayı tekrar repoya koymak için sonradan düzenleme yapacağım
+ 
+--------------------------------------------------------------------
 
