@@ -79,7 +79,7 @@ Not: Firebase için gerekli belgeyi saklayarak uygulamayı tekrar repoya koymak 
 	-> Retrofit & RxJava integration
 	-> RxJava & Compostie
 
-Gerekli API dan kripto para isimlerini ve değerlerini çekip kullanıcıya gösterilmesini sağlayan basit kripto para uygulaması.
+Gerekli API dan kripto para isimlerini ve değerlerini çekip kullanıcıya gösterilmesini sağlayan basit kripto para takibi uygulaması.
 Not: Şuan veriler github adresinden çekiliyor daha sonra düzenleme yapacağım.
  
 --------------------------------------------------------------------
@@ -179,3 +179,13 @@ Not: Firebase için gerekli belgeyi saklayarak uygulamayı tekrar repoya koymak 
  
 --------------------------------------------------------------------
 
+•cryptoAppwithKotlin : 
+	-> Retrofit
+	-> API JSON
+	-> Retrofit & RxJava integration
+	-> RxJava & Compostie
+
+Gerekli API dan kripto para isimlerini ve değerlerini çekip kullanıcıya gösterilmesini sağlayan basit kripto para takibi uygulaması.
+Not: Şuan veriler github adresinden çekiliyor daha sonra düzenleme yapacağım.
+ 
+--------------------------------------------------------------------
